@@ -23,7 +23,7 @@
 
 - 👯 I’m looking to collaborate on **on open-source projects on GeoAI And Signal Processing.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/erfan-mohammadzade](https://github.com/erfan-mohammadzade)
+- 👨‍💻 All of my projects are available at [https://github.com/erfan-mohammadzade](https://github.com/erfanmohammadzadeh)
 
 - 💬 Ask me about **Qt, City4CFD, Geo-related Data Analysis.**
 
