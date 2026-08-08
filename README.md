@@ -29,7 +29,7 @@
 
 - 📫 How to reach me **erfanmohammadzadeh.en@gmail.com**
 
-- 📄 Know about my experiences [https://erfan-mohammadzade.github.io/](https://erfan-mohammadzade.github.io/)
+- 📄 Know about my experiences [https://erfan-mohammadzade.github.io/](https://erfanmohammadzadeh.github.io/)
 
 - ⚡ Fun fact **🎮 Joined the gaming world at 39 and snagged my first PS5! 🕹️ Not a pro, just your friendly neighborhood gamer. Leveling up in life and on the console – it's never too late to start the adventure! 🚀**
 
