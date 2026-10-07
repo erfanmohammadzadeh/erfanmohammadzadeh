@@ -2,7 +2,7 @@
 
 **Software Engineer | Data Engineer | C++ / Qt | C# / .NET**
 
-Iran · [erfanmohammadzadeh.en@gmail.com](mailto:erfanmohammadzadeh.en@gmail.com) · [LinkedIn](https://www.linkedin.com/in/erfan-mohammadzade-076791178) · [GitHub](https://github.com/erfanmohammadzadeh)
+[erfanmohammadzadeh.en@gmail.com](mailto:erfanmohammadzadeh.en@gmail.com) · [LinkedIn](https://www.linkedin.com/in/erfan-mohammadzade-076791178) · [GitHub](https://github.com/erfanmohammadzadeh)
 
 [English](README.md) · **Deutsch**
 
@@ -97,3 +97,4 @@ Studium und Praxis in Signalverarbeitung, Nachrichtentechnik und Regelungstechni
 
 - Persisch (Farsi): Muttersprache
 - Englisch: beruflich sicher in Lesen, Schreiben, Sprechen und Hören; eingesetzt für technische Dokumentation, Code und Kommunikation mit Auftraggebern
+- Deutsch: beruflich sicher in Lesen, Schreiben, Sprechen und Hören; eingesetzt für technische Dokumentation, Code und Kommunikation mit Auftraggebern
