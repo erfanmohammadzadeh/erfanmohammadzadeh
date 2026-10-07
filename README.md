@@ -97,3 +97,4 @@ Coursework and practice in signal processing, communications, and control, with 
 
 - Persian (Farsi): native
 - English: professional working proficiency (reading, writing, speaking, listening), used for technical documentation, code, and client communication
+- Deutsch: professional working proficiency (reading, writing, speaking, listening), used for technical documentation, code, and client communication
