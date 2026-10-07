@@ -1,6 +1,6 @@
 # Erfan Mohammadzadeh
 
-**Software Engineer | Data Engineer | C++ / Qt | C# / .NET**
+**Software Engineer · 3D-Rekonstruktion und Analysealgorithmen**
 
 [erfanmohammadzadeh.en@gmail.com](mailto:erfanmohammadzadeh.en@gmail.com) · [LinkedIn](https://www.linkedin.com/in/erfan-mohammadzade-076791178) · [GitHub](https://github.com/erfanmohammadzadeh)
 
@@ -8,26 +8,31 @@
 
 ## Profil
 
-Software- und Data-Engineer mit Schwerpunkt auf performanten C++/Qt-Anwendungen, Sensor- und Signalstrecken sowie strukturierter Geodaten-Rekonstruktion. Zusätzlich entwickle ich Backends in C# / .NET: ASP.NET Core Web APIs, REST-CRUD-Schnittstellen und datenbankgestützte Persistenz.
+Software Engineer mit Schwerpunkt auf 3D-Rekonstruktion und den zugehörigen Analysealgorithmen. Ich überführe räumliche Rohmessungen — LiDAR-Punktwolken, Kamerabilder und Gebäudegrundrisse — in strukturierte Geometrie: Filterung, Segmentierung, Oberflächenrekonstruktion, geometrische Regularisierung und quantitative Prüfung des Ergebnisses.
 
-Ich entwerfe Systeme, die Rohmessungen (Kameras, LiDAR, EKG) über Filterung, Merkmalsextraktion, Validierung, Visualisierung und Export führen und Ergebnisse über strukturierte APIs und SQL bereitstellen oder speichern.
+Aktuelle Arbeit ist City4CFD / QCity4CFD: LoD-Stadtnetze für CFD aus Punktwolken und Grundrissen, umgesetzt mit PCL, PDAL, CGAL, VTK und Open3D. Dieselbe algorithmische Arbeit gilt für Kamerageometrie (Kalibrierung, Intrinsik, Verzeichnung) und für Signalstrecken, in denen eine Messung gefiltert, klassifiziert und geprüft wird, bevor sie als verlässlich gilt.
+
+Desktop-Werkzeuge für diese Strecken entstehen in C++ / Qt. Parallel dazu lerne ich fortgeschrittene Technologie und Architektur in C# und .NET, damit Rekonstruktionsergebnisse hinter einem wartbaren Dienst und einer Datenbank liegen können.
 
 ## Ausrichtung
 
-Vertiefung der .NET-Service- und Datenbankarbeit für produktive Web- und Datenplattformen: ASP.NET Core Web APIs, CRUD auf relationalen Daten und die Anbindung von Desktop- und Verarbeitungssystemen an wartbare Service- und Datenbankschichten.
+- **3D-Rekonstruktion:** Punktwolken und Grundrisse zu LoD-Stadtnetzen, Oberflächenrekonstruktion, Netzregularisierung und simulationsfertige Geometrie.
+- **Analysealgorithmen:** Filterung, Segmentierung, Merkmalsextraktion, geometrische Anpassung und Genauigkeitsprüfung gegen eine bekannte Referenz.
+- **Im Aufbau:** fortgeschrittene Technologie und Architektur in C# und .NET — ASP.NET Core, Anwendungsstruktur und APIs auf relationalen Daten.
 
 ## Kenntnisse
 
 | Bereich | Inhalt |
 | --- | --- |
-| Sprachen | C++, C#, Python, SQL, QML |
-| .NET / Backend | ASP.NET Core, Web API, REST-CRUD, APIs auf Service-Schicht |
-| Daten und Speicherung | SQL-Datenbanken, SQLite, XML, strukturierte ETL-artige Pipelines |
-| Desktop und UI | Qt (Widgets / QML) |
-| Bildverarbeitung und 3D | OpenCV, PCL, VTK, CGAL, Open3D |
-| Geodaten | PDAL, GDAL, QGIS, City4CFD / LoD-Modellierung |
-| Systeme | Linux (LPIC-1), plattformübergreifende Desktop-Builds |
-| Domänen | EKG / biomedizinische Signalverarbeitung, Kamerakalibrierung, ANPR, LiDAR-Stadtmodelle |
+| 3D-Rekonstruktion | PCL, CGAL, VTK, Open3D, City4CFD / LoD-Modellierung |
+| Analysealgorithmen | Filterung, Segmentierung, Oberflächenrekonstruktion, geometrische Regularisierung, Netzprüfung |
+| Geodaten | PDAL, GDAL, QGIS, ArcGIS |
+| Bildverarbeitung und Kamerageometrie | OpenCV, Kalibrierung, Intrinsik und Extrinsik, Verzeichnung |
+| Sprachen | C++, Python, C#, SQL, QML |
+| Desktop | Qt (Widgets / QML), plattformübergreifende Builds |
+| Daten | SQL, SQLite, XML, strukturierte Verarbeitungspipelines |
+| .NET und C# (im Aufbau) | Fortgeschrittene Plattformtechnologie und Architektur, ASP.NET Core, Web API, REST |
+| Systeme | Linux (LPIC-1) |
 
 ## Berufserfahrung
 
@@ -64,8 +69,8 @@ Isfahan, Iran · April 2021 – Dezember 2022
 
 ## Ausgewählte Projekte
 
-**ASP.NET Core Web API (CRUD)** — aktuelle Backend-Praxis  
-REST-Endpunkte für Anlegen, Lesen, Aktualisieren und Löschen gegen eine SQL-Datenbank: Request-Verarbeitung, Datenzugriff und API-Struktur für serviceorientierte Produkte.  
+**ASP.NET Core Web API (CRUD)** — Lernen fortgeschrittener C#- und .NET-Architektur  
+REST-Endpunkte für Anlegen, Lesen, Aktualisieren und Löschen gegen eine SQL-Datenbank: Request-Verarbeitung, Datenzugriff und Dienststruktur.  
 `C#` `ASP.NET Core` `Web API` `SQL`
 
 **QCity4CFD** — Data Horizon · Januar 2025  

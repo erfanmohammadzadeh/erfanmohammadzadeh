@@ -1,6 +1,6 @@
 # Erfan Mohammadzadeh
 
-**Software Engineer | Data Engineer | C++ / Qt | C# / .NET**
+**Software Engineer · 3D Reconstruction and Analysis Algorithms**
 
 [erfanmohammadzadeh.en@gmail.com](mailto:erfanmohammadzadeh.en@gmail.com) · [LinkedIn](https://www.linkedin.com/in/erfan-mohammadzade-076791178) · [GitHub](https://github.com/erfanmohammadzadeh)
 
@@ -8,26 +8,31 @@
 
 ## Summary
 
-Software and data engineer specializing in high-performance C++/Qt applications, sensor and signal pipelines, and structured geospatial reconstruction. I also build C# / .NET backends: ASP.NET Core Web APIs, REST CRUD endpoints, and database-backed persistence.
+Software engineer focused on 3D reconstruction and the analysis algorithms around it. I turn raw spatial measurements — LiDAR point clouds, camera images, and building footprints — into structured geometry through filtering, segmentation, surface reconstruction, geometric regularization, and quantitative checks on the result.
 
-I design systems that take raw measurements (cameras, LiDAR, ECG) through filtering, feature extraction, validation, visualization, and export, and expose or store results through structured APIs and SQL.
+Current work is City4CFD / QCity4CFD: LoD city meshes for CFD from point clouds and footprints, built with PCL, PDAL, CGAL, VTK, and Open3D. The same algorithmic work shows up in camera geometry (calibration, intrinsics, distortion) and in signal pipelines where a measurement has to be filtered, classified, and validated before it is trusted.
+
+Desktop tools for these pipelines are in C++ / Qt. In parallel I am learning advanced C# and .NET technology and architecture, so reconstruction results can sit behind a maintainable service and database.
 
 ## Focus
 
-Deepening .NET service and database work on production web and data platforms: ASP.NET Core Web APIs, CRUD over relational data, and connecting desktop and processing products to maintainable service and database layers.
+- **3D reconstruction:** point clouds and footprints to LoD city meshes, surface reconstruction, mesh regularization, and simulation-ready geometry.
+- **Analysis algorithms:** filtering, segmentation, feature extraction, geometric fitting, and accuracy checks against a known reference.
+- **Learning:** advanced C# and .NET technology and architecture — ASP.NET Core, application structure, and APIs over relational data.
 
 ## Skills
 
 | Area | Detail |
 | --- | --- |
-| Languages | C++, C#, Python, SQL, QML |
-| .NET / backend | ASP.NET Core, Web API, REST CRUD, service-layer APIs |
-| Data and storage | SQL databases, SQLite, XML, structured ETL-style pipelines |
-| Desktop and UI | Qt (Widgets / QML) |
-| Vision and 3D | OpenCV, PCL, VTK, CGAL, Open3D |
-| Geospatial | PDAL, GDAL, QGIS, City4CFD / LoD modeling |
-| Systems | Linux (LPIC-1), cross-platform desktop builds |
-| Domains | ECG / biomedical DSP, camera calibration, ANPR, LiDAR city models |
+| 3D reconstruction | PCL, CGAL, VTK, Open3D, City4CFD / LoD modeling |
+| Analysis algorithms | Filtering, segmentation, surface reconstruction, geometric regularization, mesh QA |
+| Geospatial | PDAL, GDAL, QGIS, ArcGIS |
+| Vision and camera geometry | OpenCV, calibration, intrinsics and extrinsics, distortion |
+| Languages | C++, Python, C#, SQL, QML |
+| Desktop | Qt (Widgets / QML), cross-platform builds |
+| Data | SQL, SQLite, XML, structured processing pipelines |
+| .NET and C# (learning) | Advanced platform technology and architecture, ASP.NET Core, Web API, REST |
+| Systems | Linux (LPIC-1) |
 
 ## Experience
 
@@ -64,8 +69,8 @@ Isfahan, Iran · April 2021 – December 2022
 
 ## Selected projects
 
-**ASP.NET Core Web API (CRUD)** — current backend practice  
-REST endpoints for create, read, update, and delete against a SQL database: request handling, data access, and API structure for service-oriented products.  
+**ASP.NET Core Web API (CRUD)** — learning advanced C# and .NET architecture  
+REST endpoints for create, read, update, and delete against a SQL database: request handling, data access, and service structure.  
 `C#` `ASP.NET Core` `Web API` `SQL`
 
 **QCity4CFD** — Data Horizon · January 2025  
